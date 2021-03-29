@@ -8,7 +8,7 @@ Instruction to use :
 2) Press Prepare button
 3) Press Release button to release current file.
 
-Functionalities
+Functionalities : 
 1)Play 
 2)Pause 
 3)Stop  
