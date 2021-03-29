@@ -2,7 +2,7 @@
 Music player android app.
 Support Android Api 23+.
 
-Instruction 
+Instruction to use : 
 1) Enter absolute file location in textbox.
     Example : /storage/emulated/0/Download/music.mp3
 2) Press Prepare button
