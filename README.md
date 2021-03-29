@@ -7,7 +7,7 @@ Instruction to use :
     Example : /storage/emulated/0/Download/music.mp3
 2) Press Prepare button
 3) Press Release button to release current file.
-
+ 
 Functionalities : 
 1)Play 
 2)Pause 
